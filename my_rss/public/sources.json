@@ -1,0 +1,20 @@
+{
+    "proxy":{
+        "name": "proxyURL",
+        "url": "https://cors-anywhere.herokuapp.com/"
+    },
+    "sources":[
+        {
+            "name": "Hacker news",
+            "url": "https://hnrss.org/newest"
+        },
+        {
+            "name": "Echo",
+            "url": "https://www.lecho.be/rss/top_stories.xml"
+        },
+        {
+            "name": "DEV",
+            "url": "https://dev.to/feed/ "
+        }
+    ]   
+}

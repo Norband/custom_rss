@@ -5,5 +5,5 @@ RSS feeds toy project.
 Have a minimal interface with the news about a particular subject.
 
 ## Stack
-- Svelte (JS)
+- Svelte & TypeScript (JS)
 - SCSS & Bulma (Look & Feel)

@@ -2,7 +2,7 @@
 RSS feeds toy project.
 
 ## Vision 
-Have a minimal interface with the news about a particular subject.
+Have a minimal interface with the news about a specific topic.
 
 ## Stack
 - Svelte & TypeScript (JS)
